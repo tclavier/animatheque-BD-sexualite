@@ -15,6 +15,11 @@ Sous la forme de 15 planches illustrées proposant des scénarios humoristiques 
 * Type d'outil
   * Bande dessinée sous forme de brochure ou d'exposition 
 
+
+## Consulter en ligne
+
+[La sexualité et nous](web.md)
+
 ## Utiliser
 
 * [Fiche d'utilisation](La-sexualite-et-nous_fiche_outil.pdf)
