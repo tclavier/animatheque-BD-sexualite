@@ -32,5 +32,4 @@
 ![](14-LesIST-web.jpeg)
 ![](15-a-qui-en-parler-texte-web.jpeg)
 ![](15-a-qui-en-parler-web.jpeg)
-![](couvertureweb.jpeg)
 

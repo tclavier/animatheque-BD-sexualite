@@ -2,6 +2,8 @@
 
 Un support pédagogique créé par l'équipe pédagogique du Cybercrips
 
+![Couverture La sexualité et nous](couvertureweb.jpeg)
+
 Sous la forme de 15 planches illustrées proposant des scénarios humoristiques avec des personnages fictifs auxquels les jeunes peuvent s'identifier, cette bande dessinée est un support ludique et interactif pour mener une animation sur la vie affective et sexuelle et faciliter l'échange avec les adolescents.
 
 ## Description
